@@ -1,3 +1,4 @@
+![Attempt 3 Result](https://user-images.githubusercontent.com/111043588/210605728-8e918ee3-4426-44ea-85e2-50f1a4978d34.PNG)
 # Neural_Network_Charity_Analysis
 
 ***Overview of the analysis***
@@ -66,6 +67,9 @@ o	Compiling, Training, and Evaluating the Model
   ![Attempt 2 Results ](https://user-images.githubusercontent.com/111043588/209889716-6d51723e-fd8f-406a-9c50-919e792ce609.PNG)
   
     •	Adjust epoch
+    
+  ![Attempt 3 Result](https://user-images.githubusercontent.com/111043588/210605728-8e918ee3-4426-44ea-85e2-50f1a4978d34.PNG)
+  
   
 ***Summary***
 
